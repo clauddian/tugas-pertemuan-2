@@ -1,2 +1,2 @@
 # tugas-pertemuan-2
-claudia anissa
+ pemrograman web (html + css)
